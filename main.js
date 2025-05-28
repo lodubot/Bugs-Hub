@@ -1156,6 +1156,35 @@ buffer = Buffer.concat([buffer, chunk])
 return buffer
 }
 
+// Webhook config for Render
+const express = require('express');
+const bodyParser = require('body-parser');
+
+const PORT = process.env.PORT || 10000;
+const WEBHOOK_PATH = '/webhook';
+const WEBHOOK_URL = (process.env.WEBHOOK_URL || '') + WEBHOOK_PATH; // Set WEBHOOK_URL in env, e.g. https://your-app.onrender.com
+
+// Create Express app
+const app = express();
+app.use(bodyParser.json());
+
+// Health check endpoint
+app.get('/health', (req, res) => {
+    res.send('OK');
+});
+
+// Webhook endpoint
+app.post(WEBHOOK_PATH, (req, res) => {
+    const update = req.body;
+    bot.handleUpdate(update); // Pass the update to Telegraf
+    res.sendStatus(200);
+});
+
+// Start the Express server
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+});
+
 return XeonBotInc
 }
 
