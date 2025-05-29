@@ -14,7 +14,7 @@ const chalk = require("chalk")
 global.BOT_TOKEN = "8016060285:AAFczUJOouPwaSpF7Il6fkAldBraLVqzIrU" // create bot here https://t.me/Botfather and get bot token
 global.BOT_NAME = "WhatsApp Bug" //your bot name
 global.OWNER_NAME = "@Am_itachiuchiha" //your name with sign @
-global.OWNER = ["https://t.me/Nextgenroom", "https://www.youtube.com/@Freenethubtech"] // Make sure the username is correct so that the special owner features can be used.
+global.OWNER = ['https://t.me/Am_itachiuchiha'] // Make sure the username is correct so that the special owner features can be used.
 global.DEVELOPER = ["5962658076"] //developer telegram id to operate addprem delprem and listprem
 global.pp = 'https://i.ibb.co/ydRKHnw/thumb.jpg' //your bot pp
 
@@ -28,7 +28,7 @@ global.WHATSAPP_LINK = "https://chat.whatsapp.com/Iwau9IDlCn4CR6fsmI3mc7"; // Re
 global.YOUTUBE_LINK = "https://youtube.com/@Freenethubtech"; // Replace with your youtube link
 global.INSTAGRAM_LINK = "https://www.instagram.com/ramy_phoenix/"; // Replace with your ig link
 
-global.owner = global.owner = ['25761787221'] //owner whatsapp
+global.owner = global.owner = ['256751722033'] //owner whatsapp
 
 const {
    english
