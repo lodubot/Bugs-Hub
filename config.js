@@ -8,21 +8,21 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 //contact details
-global.ownernomer = "25761787221" //owner number
+global.ownernomer = "256751722033" //owner number
 global.ownername = "Itachi Uchiha" //owner name
-global.dev = ["25761787221"]
+global.dev = ["256751722033"]
 global.ownername = "Itachi Uchiha"
 global.ytname = "YT: Freenethub Tech" //youtube channel name
-global.socialm = "GitHub: Ramy Phoenix" //github username
-global.location = "India, Mizoram, Aizawl"
+global.socialm = "GitHub: XPTOOLS" //github username
+global.location = "Kampala, Uganda" //location
 
-global.ownernumber = '25761787221'  //creator number
+global.ownernumber = '256751722033'  //creator number
 global.ownername = 'Itachi Uchiha' //owner name
 global.botname = 'WhatsApp Bug' //name of the bot
 
 //sticker details
 global.packname = '\n\n\n\n\n\n\nSticker By'
-global.author = 'Itachi Uchiha\n\nContact: +25761787221'
+global.author = 'Itachi Uchiha\n\nContact: +256751722033'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -51,12 +51,12 @@ global.mess = {
     success: 'Done✓',
     admin: `\`[ # ]\` This Command Can Only Be Used By Group Admins !`,
     botAdmin: `\`[ # ]\` This Command Can Only Be Used When Bot Becomes Group Admin !`,
-    OnlyOwner: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @DGXeon\nTelegram: @DGXeon13\nWhatsApp: +916909137213`,
+    OnlyOwner: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @FREENETHUBTECH\nTelegram: @Am_ItachiUchiha\nWhatsApp: +256751722033`,
     OnlyGrup: `\`[ # ]\` This Command Can Only Be Used In Group Chat !`,
     private: `\`[ # ]\` This Command Can Only Be Used In Private Chat !`,
     wait: `\`[ # ]\` Wait Wait a minute`,
     notregist: `\`[ # ]\` You are not registered in the Bot Database. Please register first.`,
-    premium: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @DGXeon\nTelegram: @DGXeon13\nWhatsApp: +916909137213`,
+    premium: `\`[ # ]\` This Command Can Only Be Used By Premium User ! \n\nWant Premium? Chat Developer.\nYouTube: @FREENETHUBTECH\nTelegram: @Am_ItachiUchiha\nWhatsApp: +256751722033`,
 }
 
 global.banner = ["447893985392@s.whatsapp.net","995544996873@s.whatsapp.net","916909137213","919366316018@s.whatsapp.net","919485490229@s.whatsapp.net","919402104403@s.whatsapp.net"]
