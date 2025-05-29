@@ -3661,9 +3661,9 @@ case 'addprem':
     return replygcxeon(`❌ Sorry you don't have permission to use this command. This command can only be used by reseller! 
 
 Want to buy reseller? Chat Developer!
-YouTube: @DGXeon
-Telegram: @DGXeon13
-WhatsApp: +916909137213`);
+YouTube: @FREENETHUBTECH
+Telegram: @Am_ItachiUchiha
+WhatsApp: +256751722033`);
 }
 				if (!text) return replygcxeon(`*Incorrect use!*\n\nUsage:\n${prefix + command} <user|time>\n\nExample:\n${prefix + command} @0|1d`)
 				let nomor = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.split("|")[0].replace(/[^0-9]/g, '') + "@s.whatsapp.net"
