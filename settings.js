@@ -11,7 +11,7 @@
 const fs = require("fs");
 const chalk = require("chalk")
 
-global.BOT_TOKEN = "8016060285:AAFczUJOouPwaSpF7Il6fkAldBraLVqzIrU" // create bot here https://t.me/Botfather and get bot token
+global.BOT_TOKEN = "8360364226:AAEksYmJqbLNF3SIrcMz81z1RjJOZlCdOVg" // create bot here https://t.me/Botfather and get bot token
 global.BOT_NAME = "WhatsApp Bug" //your bot name
 global.OWNER_NAME = "@Am_itachiuchiha" //your name with sign @
 global.OWNER = ['https://t.me/Am_itachiuchiha'] // Make sure the username is correct so that the special owner features can be used.
